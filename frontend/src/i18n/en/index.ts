@@ -6,7 +6,7 @@ const translation = {
       },
     },
     app: {
-      name: 'Bedrock Chat',
+      name: 'Bedrock Chat - Editis',
       inputMessage: 'How can I Help You?',
       starredBots: 'Starred Bots',
       recentlyUsedBots: 'Recently Used Bots',
@@ -232,7 +232,7 @@ const translation = {
         sitemap: 'Sitemap URL',
         file: 'File',
         loadingBot: 'Loading...',
-        normalChat: 'Chat',
+        normalChat: 'Chat Bedrock Editis',
         notAvailableBot: '[NOT Available]',
         notAvailableBotInputMessage: 'This bot is NOT available.',
         noDescription: 'No Description',
