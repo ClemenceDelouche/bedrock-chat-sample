@@ -1,7 +1,7 @@
 const translation = {
   translation: {
     app: {
-      name: 'Bedrock Chat',
+      name: 'Bedrock Chat - Editis',
       inputMessage: 'Envoyer un message',
       starredBots: 'Epingler un bot',
       recentlyUsedBots: 'Bot utilisé récemment',
@@ -17,7 +17,7 @@ const translation = {
         sitemap: 'Sitemap URL',
         file: 'Fichier',
         loadingBot: 'Chargement...',
-        normalChat: 'Chat',
+        normalChat: 'Chat Bedrock Editis',
         notAvailableBot: '[Indisponible]',
         notAvailableBotInputMessage: "Ce Bot n'est pas disponible.",
         noDescription: 'Aucune description',
